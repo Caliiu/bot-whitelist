@@ -1,0 +1,26 @@
+{
+  "name": "Discord BOT",
+  "version": "1.0.0",
+  "description": "Developed By Caliiu",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "chalk": "^5.1.2",
+    "dayjs": "^1.11.6",
+    "discord-fivem-api": "^1.0.6",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1",
+    "fivem": "^2.1.8",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.9.8",
+    "yarn": "^1.22.19"
+  }
+}
